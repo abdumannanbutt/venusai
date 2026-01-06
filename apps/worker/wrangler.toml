@@ -1,0 +1,6 @@
+name = "venus-core-worker"
+main = "src/index.ts"
+compatibility_date = "2024-12-01"
+
+[vars]
+AI_GATEWAY_URL = "https://gateway.ai.cloudflare.com/v1/408cfb2db553b33bab0a21149dd899ae/venus-ai/openai"
